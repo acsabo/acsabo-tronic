@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Oct 19 22:43:59 BRT 2018
+#Fri Oct 19 23:21:57 BRT 2018
 4.path=www/cordova-js-src/exec.js
 8.set=ASSET
 6.path=www/index.html
@@ -7,7 +7,7 @@
 10.path=www/cordova-js-src/platform.js
 5.baseType=DIRECTORY
 1.base=D\:\\Atari\\acsabo-tronic\\platforms\\android\\app\\build\\intermediates\\assets\\debug
-8.path=www/roms/Pitfall.bin
+8.path=www/javatari.js
 3.base=D\:\\Atari\\acsabo-tronic\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 4.set=ASSET
 5.base=D\:\\Atari\\acsabo-tronic\\platforms\\android\\app\\build\\intermediates\\assets\\debug
@@ -27,7 +27,7 @@
 5.path=www/cordova.js
 0.base=D\:\\Atari\\acsabo-tronic\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 7.path=www/cordova-js-src/android/nativeapiprovider.js
-9.path=www/javatari.js
+9.path=www/roms/tronic.rom
 6.set=ASSET
 2.base=D\:\\Atari\\acsabo-tronic\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 4.base=D\:\\Atari\\acsabo-tronic\\platforms\\android\\app\\build\\intermediates\\assets\\debug
