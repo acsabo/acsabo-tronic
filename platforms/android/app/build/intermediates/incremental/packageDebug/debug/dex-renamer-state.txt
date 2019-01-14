@@ -1,4 +1,4 @@
-#Fri Oct 19 23:21:57 BRT 2018
+#Mon Jan 14 20:08:17 BRST 2019
 base.0=D\:\\Atari\\acsabo-tronic\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

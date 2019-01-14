@@ -1,0 +1,19 @@
+set ANDROID_HOME=D:\Android\Sdk\
+
+set PATH=%PATH%;%ANDROID_HOME%\platform-tools;;%ANDROID_HOME%\tools
+
+
+C:\Users\acsab\atari-tronic>cordova platform add android@5
+
+
+cordova create acsabo-tronic com.acsabo.tronic Tronic
+
+cordova platform add android
+
+cordova build android
+
+
+
+https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
+
+https://hacks.mozilla.org/2014/10/creating-a-mobile-app-from-a-simple-html-site/
